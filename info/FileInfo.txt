@@ -1,1 +1,3 @@
-app.py: File that needs to run.
+app.py: File that needs to run (contains main menu and connetions to the game).
+Story.py: Includes the function which contains the game.
+
